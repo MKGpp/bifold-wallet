@@ -1,5 +1,24 @@
 # Change Log
 
+## 2.1.4
+
+### Patch Changes
+
+- 7a82c42: fixed issue with ios touch id not working
+- Updated dependencies [7a82c42]
+- Updated dependencies [c75e2cd]
+  - @bifold/core@2.1.4
+
+## 2.1.3
+
+### Patch Changes
+
+- Updated dependencies [45a5b6a]
+- Updated dependencies [271cea1]
+- Updated dependencies [11670da]
+- Updated dependencies [f45f3f8]
+  - @bifold/core@2.1.3
+
 ## 2.1.2
 
 ### Patch Changes
